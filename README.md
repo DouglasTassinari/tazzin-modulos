@@ -100,3 +100,10 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md).
 ## License
 
 MIT — see [`LICENSE`](LICENSE).
+
+
+---
+
+<p align="center">
+  <a href="https://douglastassinari.github.io/tazzin-site/"><img src="https://douglastassinari.github.io/tazzin-site/assets/img/selo-tazzin-en.svg" alt="Developed by TAZZIN" height="46"></a>
+</p>
